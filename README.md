@@ -11,5 +11,5 @@ Topic: Air pollution, vehicle pollution, or environmental sensor data
 Format: CSV
 Preprocessing:
 Removed null and duplicate values
-Renamed columns for clarity
-Filtered irrelevant rows
+Renamed columns for clarity    
+Filtered irrelevant rows     
